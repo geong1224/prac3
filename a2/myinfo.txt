@@ -1,2 +1,6 @@
 Jianguo Jinzip: 11367
+<<<<<<< HEAD
 phone: 123-123-123
+=======
+Username: geong1224
+>>>>>>> dc85e874b2baab8976e3fc8f7c13b60f9c56bbe8
